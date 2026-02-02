@@ -1,0 +1,2300 @@
+{
+  "generatedAt": "2026-02-02T20:37:49.160Z",
+  "username": "hollarves",
+  "summary": {
+    "totalSessions": 335,
+    "totalDurationMs": 929767572,
+    "totalTokens": 1085485984,
+    "projectCount": 3
+  },
+  "projects": [
+    {
+      "projectName": "gaia",
+      "projectPath": "/Users/hollarves/Developer/contra/gaia",
+      "totalSessions": 329,
+      "totalDurationMs": 908675906,
+      "totalTokens": {
+        "inputTokens": 1757006,
+        "outputTokens": 380054,
+        "cacheReadTokens": 961861852,
+        "cacheCreationTokens": 65622546
+      },
+      "sessions": [
+        {
+          "id": "f80be54a-47b4-44f6-a5a4-42801b0ad82a",
+          "title": null,
+          "timestamp": "2026-02-02T20:01:07.964Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "dac7c04b-d84b-4c24-9538-1ad4a16bab05",
+          "title": null,
+          "timestamp": "2026-02-02T19:57:36.500Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "b43599de-87b3-4e5f-8bce-01e7c5d162b7",
+          "title": null,
+          "timestamp": "2026-02-02T19:55:59.086Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "80202e2f-9276-4917-96da-21204f96d4d9",
+          "title": "Oxc formatting not working: VS Code config fix",
+          "timestamp": "2026-02-02T19:44:31.482Z",
+          "durationMs": 812315,
+          "totalDurationMs": 812315,
+          "gitBranch": "henryollarves/prod-8682-add-new-ad-placements-to-ads-admin-tool",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 2727,
+            "outputTokens": 139,
+            "cacheReadTokens": 2743300,
+            "cacheCreationTokens": 438317
+          },
+          "totalTokens": {
+            "inputTokens": 2727,
+            "outputTokens": 139,
+            "cacheReadTokens": 2743300,
+            "cacheCreationTokens": 438317
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "d10669f9-f97f-4859-8abd-e4400ab5624f",
+          "title": "Implement DISCOVER_SEARCH_PLACEMENT ad type with targeting",
+          "timestamp": "2026-02-02T15:28:54.681Z",
+          "durationMs": 18531747,
+          "totalDurationMs": 18918901,
+          "gitBranch": "henryollarves/prod-8682-add-new-ad-placements-to-ads-admin-tool",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 6514,
+            "outputTokens": 3824,
+            "cacheReadTokens": 110897623,
+            "cacheCreationTokens": 3316283
+          },
+          "totalTokens": {
+            "inputTokens": 6830,
+            "outputTokens": 3923,
+            "cacheReadTokens": 113481536,
+            "cacheCreationTokens": 4873983
+          },
+          "subagentCount": 6
+        },
+        {
+          "id": "94ee37fe-6df9-42de-a3ce-fb7be034d741",
+          "title": "Create Dynamic Search Targeting Ad Creative Type",
+          "timestamp": "2026-02-02T15:08:27.224Z",
+          "durationMs": 1196000,
+          "totalDurationMs": 1578679,
+          "gitBranch": "henryollarves/prod-8682-add-new-ad-placements-to-ads-admin-tool",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 9751,
+            "outputTokens": 137,
+            "cacheReadTokens": 5899877,
+            "cacheCreationTokens": 458169
+          },
+          "totalTokens": {
+            "inputTokens": 23967,
+            "outputTokens": 862,
+            "cacheReadTokens": 15512814,
+            "cacheCreationTokens": 1375282
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "c728587a-f830-4cc5-849b-b70fcc2fe25d",
+          "title": "Finding System, Git, and GitHub Username",
+          "timestamp": "2026-02-02T14:29:05.933Z",
+          "durationMs": 5387,
+          "totalDurationMs": 5387,
+          "gitBranch": "henryollarves/prod-00-remove-new-onboarding-experience",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 20,
+            "outputTokens": 16,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 55404
+          },
+          "totalTokens": {
+            "inputTokens": 20,
+            "outputTokens": 16,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 55404
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "94be70e0-2976-4b0f-9098-feb68d64dfcd",
+          "title": null,
+          "timestamp": "2026-02-02T14:20:36.630Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "eaa5d63e-eece-4469-b8d7-6905e073771b",
+          "title": "Fix Payout Method Integration Issues Locally",
+          "timestamp": "2026-02-01T19:59:47.287Z",
+          "durationMs": 1191608,
+          "totalDurationMs": 2218606,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 504,
+            "outputTokens": 182,
+            "cacheReadTokens": 3549788,
+            "cacheCreationTokens": 338756
+          },
+          "totalTokens": {
+            "inputTokens": 31917,
+            "outputTokens": 1057,
+            "cacheReadTokens": 18859924,
+            "cacheCreationTokens": 1649384
+          },
+          "subagentCount": 5
+        },
+        {
+          "id": "ec47fbd8-a8d2-40b6-88ad-cbe81681f674",
+          "title": null,
+          "timestamp": "2026-02-01T09:17:39.515Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "73e07058-0443-4e78-bb9b-d7dab590d4fc",
+          "title": "SC Migration Batch 12: Styled-Components to Panda CSS",
+          "timestamp": "2026-01-31T09:41:20.430Z",
+          "durationMs": 86125060,
+          "totalDurationMs": 86213490,
+          "gitBranch": "henryollarves/prod-8414-sc-migration-batch-12",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 372,
+            "outputTokens": 1144,
+            "cacheReadTokens": 14263597,
+            "cacheCreationTokens": 916132
+          },
+          "totalTokens": {
+            "inputTokens": 571,
+            "outputTokens": 1234,
+            "cacheReadTokens": 16551864,
+            "cacheCreationTokens": 1303257
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "cacee58b-b87e-48b4-b497-d3b19a77646d",
+          "title": "SC Migration Batch Process Orchestration Task",
+          "timestamp": "2026-01-31T09:31:10.609Z",
+          "durationMs": 590440,
+          "totalDurationMs": 1154989,
+          "gitBranch": "henryollarves/prod-8414-sc-migration-batch-12",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 17,
+            "outputTokens": 19,
+            "cacheReadTokens": 285068,
+            "cacheCreationTokens": 92998
+          },
+          "totalTokens": {
+            "inputTokens": 180,
+            "outputTokens": 88,
+            "cacheReadTokens": 854987,
+            "cacheCreationTokens": 262999
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "a9bd5058-2590-4cf8-b6a3-d5e5a159c96b",
+          "title": "Removing feature flag, updating onboarding tests",
+          "timestamp": "2026-01-30T17:32:09.230Z",
+          "durationMs": 6559430,
+          "totalDurationMs": 6631939,
+          "gitBranch": "henryollarves/prod-8459-when-user-goes-to-home-for-the-first-time-the-topics",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 2552,
+            "outputTokens": 341,
+            "cacheReadTokens": 9329072,
+            "cacheCreationTokens": 426847
+          },
+          "totalTokens": {
+            "inputTokens": 15383,
+            "outputTokens": 443,
+            "cacheReadTokens": 11237368,
+            "cacheCreationTokens": 694168
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "c0c6248f-0665-4fbf-b7d5-b8f8310a6443",
+          "title": "Discovery Score Gradient Bug Fix",
+          "timestamp": "2026-01-30T14:07:21.305Z",
+          "durationMs": 4174688,
+          "totalDurationMs": 4372456,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 9581,
+            "outputTokens": 326,
+            "cacheReadTokens": 3897919,
+            "cacheCreationTokens": 350509
+          },
+          "totalTokens": {
+            "inputTokens": 78920,
+            "outputTokens": 458,
+            "cacheReadTokens": 4921901,
+            "cacheCreationTokens": 692330
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "a4d60994-050f-4365-b2d3-2bf5e64d1060",
+          "title": null,
+          "timestamp": "2026-01-29T14:49:11.002Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "8fc4587c-4239-46aa-b7c8-5c6b65226d2d",
+          "title": null,
+          "timestamp": "2026-01-28T16:53:36.306Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "45c476b9-1378-44e4-8239-0810ceae3fb5",
+          "title": "Invalid API key · Please run /login",
+          "timestamp": "2026-01-28T14:27:49.829Z",
+          "durationMs": 188103861,
+          "totalDurationMs": 189486082,
+          "gitBranch": "henryollarves/prod-8446-updates-to-selectusertype-step-in-signupmodal",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 57177,
+            "outputTokens": 5372,
+            "cacheReadTokens": 177896887,
+            "cacheCreationTokens": 5589385
+          },
+          "totalTokens": {
+            "inputTokens": 291001,
+            "outputTokens": 9813,
+            "cacheReadTokens": 193145667,
+            "cacheCreationTokens": 7818022
+          },
+          "subagentCount": 11
+        },
+        {
+          "id": "eb07d736-406a-4484-a66e-1a35babbf3da",
+          "title": null,
+          "timestamp": "2026-01-27T18:32:47.248Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "a185ee9c-3d4a-42ef-b29e-ab68d0d6f023",
+          "title": "Social Links Modal Update Sync Issue",
+          "timestamp": "2026-01-27T18:24:29.830Z",
+          "durationMs": 3456585,
+          "totalDurationMs": 3456585,
+          "gitBranch": "cursor/PROD-8461-social-links-modal-current-tab-a31d",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 2779,
+            "outputTokens": 368,
+            "cacheReadTokens": 16838724,
+            "cacheCreationTokens": 785343
+          },
+          "totalTokens": {
+            "inputTokens": 2779,
+            "outputTokens": 368,
+            "cacheReadTokens": 16838724,
+            "cacheCreationTokens": 785343
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "60f2c4be-26ef-43fe-a53c-265bb60e04bb",
+          "title": "SelectUserType modal: Add \"Get paid\" option behind FF",
+          "timestamp": "2026-01-27T17:12:07.676Z",
+          "durationMs": 1144362,
+          "totalDurationMs": 1945358,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 170,
+            "outputTokens": 653,
+            "cacheReadTokens": 7974685,
+            "cacheCreationTokens": 458161
+          },
+          "totalTokens": {
+            "inputTokens": 98978,
+            "outputTokens": 2615,
+            "cacheReadTokens": 13111495,
+            "cacheCreationTokens": 1473431
+          },
+          "subagentCount": 8
+        },
+        {
+          "id": "0543764a-389d-43e8-b9ed-8294a5f22e1d",
+          "title": null,
+          "timestamp": "2026-01-27T11:39:02.193Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "40f44668-5222-431a-a2d8-d3c7307d4ddb",
+          "title": null,
+          "timestamp": "2026-01-27T11:25:39.889Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "9ad933ca-afc4-4213-80f9-2785e04f2b9d",
+          "title": null,
+          "timestamp": "2026-01-27T11:25:19.268Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "6e6957f4-4744-4eec-9cce-79dd07196d0e",
+          "title": null,
+          "timestamp": "2026-01-27T11:25:18.202Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "401bd5e1-2deb-4b6a-8e45-779ab5c0f062",
+          "title": null,
+          "timestamp": "2026-01-27T11:24:59.292Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "0d9a4de0-8e04-42f5-a50d-1c693795b82c",
+          "title": null,
+          "timestamp": "2026-01-27T09:45:54.150Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "5a0791e7-f970-4aee-a96e-547be14a3ba4",
+          "title": null,
+          "timestamp": "2026-01-27T09:44:34.813Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "41399d51-a8d0-4df7-a371-10ea3c38ce72",
+          "title": "Shortimize partnership payments onboarding flow implementation",
+          "timestamp": "2026-01-26T21:19:22.520Z",
+          "durationMs": 62573252,
+          "totalDurationMs": 62879728,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 22155,
+            "outputTokens": 931,
+            "cacheReadTokens": 30231612,
+            "cacheCreationTokens": 1818365
+          },
+          "totalTokens": {
+            "inputTokens": 101592,
+            "outputTokens": 1362,
+            "cacheReadTokens": 39107469,
+            "cacheCreationTokens": 2976848
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "c88ffabe-20cc-45bc-8f13-272ec1ce9e7a",
+          "title": null,
+          "timestamp": "2026-01-26T21:17:33.551Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "d65ef519-c6b0-4967-b237-b266ae907423",
+          "title": null,
+          "timestamp": "2026-01-26T21:17:33.491Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "198d2b0b-5648-46c8-8c24-714371625cd1",
+          "title": "Implement Payments Onboarding Flow",
+          "timestamp": "2026-01-26T21:16:57.932Z",
+          "durationMs": 5218,
+          "totalDurationMs": 5218,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 3,
+            "outputTokens": 1,
+            "cacheReadTokens": 29465,
+            "cacheCreationTokens": 6271
+          },
+          "totalTokens": {
+            "inputTokens": 3,
+            "outputTokens": 1,
+            "cacheReadTokens": 29465,
+            "cacheCreationTokens": 6271
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "80d603f5-2e9a-43ff-be19-42d15b712dd0",
+          "title": "Linear Task Integration Workflow",
+          "timestamp": "2026-01-26T21:16:50.587Z",
+          "durationMs": 4804,
+          "totalDurationMs": 4804,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 6,
+            "outputTokens": 12,
+            "cacheReadTokens": 29080,
+            "cacheCreationTokens": 28502
+          },
+          "totalTokens": {
+            "inputTokens": 6,
+            "outputTokens": 12,
+            "cacheReadTokens": 29080,
+            "cacheCreationTokens": 28502
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "d304c297-eb47-45a0-9fb7-ef907c9df8cf",
+          "title": null,
+          "timestamp": "2026-01-26T21:15:20.957Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "9a1a449c-2847-440d-a536-c083ea61a338",
+          "title": "Implement Shortimize Payments Onboarding Banner",
+          "timestamp": "2026-01-26T21:06:33.496Z",
+          "durationMs": 710233,
+          "totalDurationMs": 805508,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 117,
+            "outputTokens": 345,
+            "cacheReadTokens": 3325764,
+            "cacheCreationTokens": 268792
+          },
+          "totalTokens": {
+            "inputTokens": 38251,
+            "outputTokens": 543,
+            "cacheReadTokens": 5350950,
+            "cacheCreationTokens": 682955
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "2ce77d3f-e802-4a92-a939-28d50dea1f76",
+          "title": null,
+          "timestamp": "2026-01-26T16:39:35.812Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "5e476ea3-bcb7-4ab9-bb35-3f532215240c",
+          "title": "Claude Code Plugin Installation and Restart",
+          "timestamp": "2026-01-26T15:23:31.517Z",
+          "durationMs": 33668,
+          "totalDurationMs": 33668,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "0ee42b9b-a597-44b4-a412-abf232f8444e",
+          "title": "Claude Code Plugin Installation",
+          "timestamp": "2026-01-26T15:22:59.580Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "8d53830b-eb5c-4ed4-8c6c-49cddfbc1acd",
+          "title": "Sponsored Post Click Event Handling",
+          "timestamp": "2026-01-26T14:36:13.362Z",
+          "durationMs": 104080,
+          "totalDurationMs": 194833,
+          "gitBranch": "henryollarves/prod-8366-get-started-component-at-the-top-of-discover-desktop",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 7,
+            "outputTokens": 3,
+            "cacheReadTokens": 32699,
+            "cacheCreationTokens": 67266
+          },
+          "totalTokens": {
+            "inputTokens": 5046,
+            "outputTokens": 142,
+            "cacheReadTokens": 3610625,
+            "cacheCreationTokens": 331652
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "787a461b-0702-45c7-94cb-77b4f4445c47",
+          "title": "Senior Code Review Skill Setup",
+          "timestamp": "2026-01-25T14:33:33.485Z",
+          "durationMs": 192444,
+          "totalDurationMs": 192444,
+          "gitBranch": "henryollarves/prod-8180-basic-information-form-for-clients",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 674,
+            "outputTokens": 200,
+            "cacheReadTokens": 2217851,
+            "cacheCreationTokens": 423870
+          },
+          "totalTokens": {
+            "inputTokens": 674,
+            "outputTokens": 200,
+            "cacheReadTokens": 2217851,
+            "cacheCreationTokens": 423870
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "6632b7a9-d375-451e-8d32-f81e4c02163f",
+          "title": "Senior Code Review: Client Onboarding Forms",
+          "timestamp": "2026-01-25T14:22:44.930Z",
+          "durationMs": 278759,
+          "totalDurationMs": 358595,
+          "gitBranch": "henryollarves/prod-8180-basic-information-form-for-clients",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 218,
+            "outputTokens": 62,
+            "cacheReadTokens": 3276452,
+            "cacheCreationTokens": 423537
+          },
+          "totalTokens": {
+            "inputTokens": 32998,
+            "outputTokens": 149,
+            "cacheReadTokens": 5831005,
+            "cacheCreationTokens": 657303
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "1449dbc3-4b20-4338-a240-d8f02862bfe5",
+          "title": "Senior Code Review Process Setup",
+          "timestamp": "2026-01-25T14:18:34.756Z",
+          "durationMs": 4544,
+          "totalDurationMs": 4544,
+          "gitBranch": "henryollarves/prod-8180-basic-information-form-for-clients",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 3,
+            "outputTokens": 1,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 34367
+          },
+          "totalTokens": {
+            "inputTokens": 3,
+            "outputTokens": 1,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 34367
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "d0353f35-b63d-40b7-bdaa-6cdf0570ec15",
+          "title": "Implement company verification modal for client inquiries",
+          "timestamp": "2026-01-25T11:06:00.125Z",
+          "durationMs": 13209022,
+          "totalDurationMs": 13434781,
+          "gitBranch": "henryollarves/prod-8180-basic-information-form-for-clients",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 55765,
+            "outputTokens": 3272,
+            "cacheReadTokens": 37072920,
+            "cacheCreationTokens": 1468721
+          },
+          "totalTokens": {
+            "inputTokens": 64990,
+            "outputTokens": 3716,
+            "cacheReadTokens": 41769430,
+            "cacheCreationTokens": 1849675
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "87474964-32d0-4f95-8c05-80604f82c651",
+          "title": "Client Onboarding Form Implementation PROD-8180",
+          "timestamp": "2026-01-25T10:29:33.683Z",
+          "durationMs": 1853561,
+          "totalDurationMs": 1923647,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 5229,
+            "outputTokens": 1203,
+            "cacheReadTokens": 16346688,
+            "cacheCreationTokens": 1103279
+          },
+          "totalTokens": {
+            "inputTokens": 5333,
+            "outputTokens": 1375,
+            "cacheReadTokens": 18043067,
+            "cacheCreationTokens": 1299384
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "fdbbabf6-846a-4493-bf9c-b14442ef9088",
+          "title": "Find legacy onboarding company selection component",
+          "timestamp": "2026-01-25T10:18:45.511Z",
+          "durationMs": 55146,
+          "totalDurationMs": 96208,
+          "gitBranch": "henryollarves/chaos-00-fix-hackathon-signup-bug",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 7,
+            "outputTokens": 15,
+            "cacheReadTokens": 32650,
+            "cacheCreationTokens": 66446
+          },
+          "totalTokens": {
+            "inputTokens": 814,
+            "outputTokens": 96,
+            "cacheReadTokens": 902825,
+            "cacheCreationTokens": 230215
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "acb1e6e3-3f74-420b-97e8-1e777f6aa9e6",
+          "title": null,
+          "timestamp": "2026-01-25T09:31:36.993Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "bc3eff8d-001e-472e-b50e-0103aea2d02d",
+          "title": null,
+          "timestamp": "2026-01-24T00:03:16.088Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "745b4c0e-4fc8-4b0b-a05c-daaf0b894ac9",
+          "title": "Hackathon signup feed backfill timing issue",
+          "timestamp": "2026-01-23T23:15:29.931Z",
+          "durationMs": 3772537,
+          "totalDurationMs": 3866418,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 317,
+            "outputTokens": 1894,
+            "cacheReadTokens": 22513187,
+            "cacheCreationTokens": 1316578
+          },
+          "totalTokens": {
+            "inputTokens": 63225,
+            "outputTokens": 2013,
+            "cacheReadTokens": 25033288,
+            "cacheCreationTokens": 1663549
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "a466907b-29f4-4e42-9fc1-11cf5c0daa42",
+          "title": "Ad Campaign Form Caching & Default Color Values",
+          "timestamp": "2026-01-23T21:12:44.231Z",
+          "durationMs": 3171690,
+          "totalDurationMs": 3171690,
+          "gitBranch": "cursor/ENG-20952-hover-ads-campaign-refresh-459a",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 375,
+            "outputTokens": 562,
+            "cacheReadTokens": 9077336,
+            "cacheCreationTokens": 435299
+          },
+          "totalTokens": {
+            "inputTokens": 375,
+            "outputTokens": 562,
+            "cacheReadTokens": 9077336,
+            "cacheCreationTokens": 435299
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "e21074eb-afc2-406a-8692-f434aa25b18f",
+          "title": null,
+          "timestamp": "2026-01-23T16:17:35.091Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "dfc77d63-5d28-463a-a265-6b49a1ad676e",
+          "title": "Discover Get Started component refinements",
+          "timestamp": "2026-01-23T15:50:52.546Z",
+          "durationMs": 330282529,
+          "totalDurationMs": 330787939,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 16270,
+            "outputTokens": 7435,
+            "cacheReadTokens": 130541282,
+            "cacheCreationTokens": 6969872
+          },
+          "totalTokens": {
+            "inputTokens": 214654,
+            "outputTokens": 8178,
+            "cacheReadTokens": 141040016,
+            "cacheCreationTokens": 8297396
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "b4f5b0c9-a6dd-4ce3-a0eb-4e0eb54e8142",
+          "title": "SC Migration Batch 4: Panda CSS Conversion Complete",
+          "timestamp": "2026-01-23T14:53:49.370Z",
+          "durationMs": 2995078,
+          "totalDurationMs": 5453312,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 1507,
+            "outputTokens": 490,
+            "cacheReadTokens": 8613293,
+            "cacheCreationTokens": 781191
+          },
+          "totalTokens": {
+            "inputTokens": 20296,
+            "outputTokens": 3890,
+            "cacheReadTokens": 20374708,
+            "cacheCreationTokens": 2367453
+          },
+          "subagentCount": 24
+        },
+        {
+          "id": "5772af11-1b8d-4fb5-8a3d-11f6ee93b8ed",
+          "title": "MCP Linear Server Authentication Connection",
+          "timestamp": "2026-01-23T14:53:22.660Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": "main",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "040f0f6f-9170-41c0-9560-f4e3bb3d53dd",
+          "title": "Styled-components batch migration orchestration with showcase integration",
+          "timestamp": "2026-01-23T14:51:23.257Z",
+          "durationMs": 45866,
+          "totalDurationMs": 59249,
+          "gitBranch": "main",
+          "model": "claude-sonnet-4-5-20250929",
+          "tokens": {
+            "inputTokens": 10,
+            "outputTokens": 15,
+            "cacheReadTokens": 60604,
+            "cacheCreationTokens": 91494
+          },
+          "totalTokens": {
+            "inputTokens": 42,
+            "outputTokens": 25,
+            "cacheReadTokens": 79824,
+            "cacheCreationTokens": 101518
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "6bc52ae6-5650-4304-b24b-3ec2ee2c8441",
+          "title": "Ad ID null race condition fix",
+          "timestamp": "2026-01-22T20:03:01.309Z",
+          "durationMs": 4303275,
+          "totalDurationMs": 4375843,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 7712,
+            "outputTokens": 1339,
+            "cacheReadTokens": 17291558,
+            "cacheCreationTokens": 1386603
+          },
+          "totalTokens": {
+            "inputTokens": 16098,
+            "outputTokens": 1443,
+            "cacheReadTokens": 18440500,
+            "cacheCreationTokens": 1576196
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "ff58b0e1-4d30-4cc6-9858-cfe8a40ab32c",
+          "title": "Find registerAdClick calls for Sponsored Posts",
+          "timestamp": "2026-01-22T16:35:43.916Z",
+          "durationMs": 1282465,
+          "totalDurationMs": 1282465,
+          "gitBranch": "henryollarves/prod-8362-add-keyboard-shortcut-to-addedit-link",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 19,
+            "outputTokens": 49,
+            "cacheReadTokens": 208906,
+            "cacheCreationTokens": 185698
+          },
+          "totalTokens": {
+            "inputTokens": 19,
+            "outputTokens": 49,
+            "cacheReadTokens": 208906,
+            "cacheCreationTokens": 185698
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "ae0fd0ab-9b77-4501-8669-7edf7be39608",
+          "title": null,
+          "timestamp": "2026-01-22T15:16:32.156Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "a9f3fa84-1b9d-4577-b42f-65b1a63cd089",
+          "title": null,
+          "timestamp": "2026-01-21T21:30:22.364Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "50aee9e8-2323-4ff8-96c5-419a17267fad",
+          "title": "Fixed Discover Projects tab overflow issue",
+          "timestamp": "2026-01-21T19:47:18.131Z",
+          "durationMs": 2314370,
+          "totalDurationMs": 2372447,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 20131,
+            "outputTokens": 615,
+            "cacheReadTokens": 13214569,
+            "cacheCreationTokens": 434276
+          },
+          "totalTokens": {
+            "inputTokens": 20329,
+            "outputTokens": 764,
+            "cacheReadTokens": 14951363,
+            "cacheCreationTokens": 580228
+          },
+          "subagentCount": 1
+        },
+        {
+          "id": "a6d3281e-96e6-48bd-8ab9-836e8d7e1b09",
+          "title": "Profile Checklist & URL Params Navigation Issues Fixed",
+          "timestamp": "2026-01-21T18:48:36.677Z",
+          "durationMs": 1722253,
+          "totalDurationMs": 1878160,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 169,
+            "outputTokens": 571,
+            "cacheReadTokens": 6294002,
+            "cacheCreationTokens": 327007
+          },
+          "totalTokens": {
+            "inputTokens": 48166,
+            "outputTokens": 838,
+            "cacheReadTokens": 12509782,
+            "cacheCreationTokens": 931629
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "c6e02f36-4b26-4b53-a06b-5461f0843ee0",
+          "title": null,
+          "timestamp": "2026-01-21T16:37:12.652Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "79bee203-eeda-44bc-a7de-54e829a345a5",
+          "title": null,
+          "timestamp": "2026-01-21T15:36:45.030Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "c11337d4-4955-4d73-8362-1893c544e449",
+          "title": "Figma MCP Authentication Connection Established",
+          "timestamp": "2026-01-21T15:36:35.499Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": "henryollarves/prod-8329-social-links-modal-new-ux",
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "4d0c9bda-3287-4258-8156-5963ed6e2af9",
+          "title": null,
+          "timestamp": "2026-01-21T15:34:53.611Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "c2cbcfdb-b5f3-4503-ba15-db3346745253",
+          "title": "Social Links Editing Experience with Drag-Drop & Analytics",
+          "timestamp": "2026-01-21T15:22:29.185Z",
+          "durationMs": 88947377,
+          "totalDurationMs": 88947377,
+          "gitBranch": "henryollarves/prod-8329-social-links-modal-new-ux",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 13535,
+            "outputTokens": 4200,
+            "cacheReadTokens": 72965475,
+            "cacheCreationTokens": 3561893
+          },
+          "totalTokens": {
+            "inputTokens": 13535,
+            "outputTokens": 4200,
+            "cacheReadTokens": 72965475,
+            "cacheCreationTokens": 3561893
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "482f1397-e9bc-4ed8-b590-c572fb450f08",
+          "title": null,
+          "timestamp": "2026-01-21T14:17:05.360Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "5cf42aed-4959-4137-894c-3104d5e955a4",
+          "title": "Fix dismissible header to use sessionStorage instead of localStorage",
+          "timestamp": "2026-01-20T18:36:19.586Z",
+          "durationMs": 53119,
+          "totalDurationMs": 53119,
+          "gitBranch": "henryollarves/prod-8311-separate-topicsmodal-and-topicsmodalv2",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 22,
+            "outputTokens": 56,
+            "cacheReadTokens": 274648,
+            "cacheCreationTokens": 59330
+          },
+          "totalTokens": {
+            "inputTokens": 22,
+            "outputTokens": 56,
+            "cacheReadTokens": 274648,
+            "cacheCreationTokens": 59330
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "02271d5a-3da8-48da-bcf9-c91de20fcd28",
+          "title": "TopicsModal refactor: standalone v2 component",
+          "timestamp": "2026-01-20T17:10:03.218Z",
+          "durationMs": 522945,
+          "totalDurationMs": 522945,
+          "gitBranch": "henryollarves/prod-00-fix-home-redirect",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 113,
+            "outputTokens": 258,
+            "cacheReadTokens": 4254372,
+            "cacheCreationTokens": 275694
+          },
+          "totalTokens": {
+            "inputTokens": 113,
+            "outputTokens": 258,
+            "cacheReadTokens": 4254372,
+            "cacheCreationTokens": 275694
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "831b0508-5bf5-4b3c-b941-a005a286f54c",
+          "title": "Rotating Placeholder Text on Input Field",
+          "timestamp": "2026-01-20T15:12:08.393Z",
+          "durationMs": 1530738,
+          "totalDurationMs": 1530738,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 133,
+            "outputTokens": 620,
+            "cacheReadTokens": 5011217,
+            "cacheCreationTokens": 179562
+          },
+          "totalTokens": {
+            "inputTokens": 133,
+            "outputTokens": 620,
+            "cacheReadTokens": 5011217,
+            "cacheCreationTokens": 179562
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "50e4371f-8d84-4054-89ac-8e0d52f7b120",
+          "title": null,
+          "timestamp": "2026-01-17T01:49:32.273Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "49a86d5c-7cf7-466b-a30c-90100e1bf24f",
+          "title": "Modal batch migration with visual testing",
+          "timestamp": "2026-01-17T01:22:17.712Z",
+          "durationMs": 1691708,
+          "totalDurationMs": 3661114,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 147,
+            "outputTokens": 13244,
+            "cacheReadTokens": 3332942,
+            "cacheCreationTokens": 476676
+          },
+          "totalTokens": {
+            "inputTokens": 2256,
+            "outputTokens": 55846,
+            "cacheReadTokens": 7044855,
+            "cacheCreationTokens": 1562537
+          },
+          "subagentCount": 22
+        },
+        {
+          "id": "78547d6f-8d1b-4e63-9666-19c5321e6c76",
+          "title": "SC migration modal batch 4",
+          "timestamp": "2026-01-17T01:12:23.507Z",
+          "durationMs": 241993,
+          "totalDurationMs": 326041,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 31,
+            "outputTokens": 2182,
+            "cacheReadTokens": 529987,
+            "cacheCreationTokens": 54684
+          },
+          "totalTokens": {
+            "inputTokens": 198,
+            "outputTokens": 4156,
+            "cacheReadTokens": 692998,
+            "cacheCreationTokens": 148728
+          },
+          "subagentCount": 5
+        },
+        {
+          "id": "1fcdec30-5538-48be-9eba-cd5cb361f618",
+          "title": null,
+          "timestamp": "2026-01-16T19:53:26.117Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "5a00e435-22d6-4445-9a51-a6936ce28634",
+          "title": null,
+          "timestamp": "2026-01-16T19:53:03.213Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "99365db2-de68-4d61-b221-1270f4c97e4f",
+          "title": "Onboarding UI Polish & Database Query Sorting",
+          "timestamp": "2026-01-16T16:12:36.878Z",
+          "durationMs": 15126479,
+          "totalDurationMs": 15140635,
+          "gitBranch": "henryollarves/prod-8211-update-copy-in-onboarding-checklist",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 316,
+            "outputTokens": 25279,
+            "cacheReadTokens": 11048602,
+            "cacheCreationTokens": 1499695
+          },
+          "totalTokens": {
+            "inputTokens": 361,
+            "outputTokens": 26028,
+            "cacheReadTokens": 11112879,
+            "cacheCreationTokens": 1588523
+          },
+          "subagentCount": 9
+        },
+        {
+          "id": "9a717c91-a6b9-44fb-9da0-26c463d9d995",
+          "title": "CSP Policy Location Search and Definition",
+          "timestamp": "2026-01-16T14:23:03.268Z",
+          "durationMs": 57113,
+          "totalDurationMs": 117053,
+          "gitBranch": "henryollarves/prod-8187-fix-profile-completion-checklist-for-social-link-and-one",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 7,
+            "outputTokens": 17,
+            "cacheReadTokens": 19527,
+            "cacheCreationTokens": 40799
+          },
+          "totalTokens": {
+            "inputTokens": 3681,
+            "outputTokens": 2237,
+            "cacheReadTokens": 502110,
+            "cacheCreationTokens": 233862
+          },
+          "subagentCount": 4
+        },
+        {
+          "id": "64756222-a846-4d5b-8b44-e0c47e6119f8",
+          "title": null,
+          "timestamp": "2026-01-15T21:34:41.601Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "66a876bf-2e41-415e-b217-e341435ac114",
+          "title": "Auto-open social links modal & fix onboarding checklist",
+          "timestamp": "2026-01-15T20:58:16.664Z",
+          "durationMs": 2322966,
+          "totalDurationMs": 2425358,
+          "gitBranch": "henryollarves/prod-8163-align-copy-between-increase-discovery-and-complete-profile",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 70,
+            "outputTokens": 3699,
+            "cacheReadTokens": 1203293,
+            "cacheCreationTokens": 377276
+          },
+          "totalTokens": {
+            "inputTokens": 61518,
+            "outputTokens": 6391,
+            "cacheReadTokens": 2878844,
+            "cacheCreationTokens": 680633
+          },
+          "subagentCount": 7
+        },
+        {
+          "id": "8e969430-716b-440c-afdf-88996b7ebe62",
+          "title": "URL params stripped during profile redirect",
+          "timestamp": "2026-01-15T18:36:52.295Z",
+          "durationMs": 335137,
+          "totalDurationMs": 347103,
+          "gitBranch": "henryollarves/prod-7772-new-complete-your-profile-callout-and-progress-in-sidebar",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 747,
+            "outputTokens": 2463,
+            "cacheReadTokens": 1667395,
+            "cacheCreationTokens": 97489
+          },
+          "totalTokens": {
+            "inputTokens": 762,
+            "outputTokens": 2905,
+            "cacheReadTokens": 1667395,
+            "cacheCreationTokens": 146703
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "ba27d6b4-18ab-4c83-96cb-d0499e32b900",
+          "title": null,
+          "timestamp": "2026-01-15T18:00:19.535Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "52a32378-9fa7-48a7-9cb7-c104f95c2219",
+          "title": "Create test mutation for fast tag insertion",
+          "timestamp": "2026-01-15T15:43:50.924Z",
+          "durationMs": 8397688,
+          "totalDurationMs": 8591172,
+          "gitBranch": "henryollarves/prod-7887-playwright-tests-for-onboarding",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 152,
+            "outputTokens": 18674,
+            "cacheReadTokens": 12685279,
+            "cacheCreationTokens": 592627
+          },
+          "totalTokens": {
+            "inputTokens": 91210,
+            "outputTokens": 24071,
+            "cacheReadTokens": 16512273,
+            "cacheCreationTokens": 1160723
+          },
+          "subagentCount": 8
+        },
+        {
+          "id": "08689c91-bbd1-4b43-a891-4869a86199de",
+          "title": "DM Campaign Type Feature Implementation",
+          "timestamp": "2026-01-15T14:18:30.508Z",
+          "durationMs": 3015976,
+          "totalDurationMs": 3586739,
+          "gitBranch": "henryollarves/prod-8162-add-campaign-type-category-to-dm-tool",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 10679,
+            "outputTokens": 20771,
+            "cacheReadTokens": 10370088,
+            "cacheCreationTokens": 896409
+          },
+          "totalTokens": {
+            "inputTokens": 111682,
+            "outputTokens": 30639,
+            "cacheReadTokens": 17194083,
+            "cacheCreationTokens": 1738468
+          },
+          "subagentCount": 6
+        },
+        {
+          "id": "60d6dc19-fafc-451a-92ba-7813696d78b4",
+          "title": "Button ref forwarding via additionalProps",
+          "timestamp": "2026-01-13T20:52:15.205Z",
+          "durationMs": 39573,
+          "totalDurationMs": 50371,
+          "gitBranch": "henryollarves/prod-7772-new-complete-your-profile-callout-and-progress-in-sidebar",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 4154,
+            "outputTokens": 493,
+            "cacheReadTokens": 213507,
+            "cacheCreationTokens": 87278
+          },
+          "totalTokens": {
+            "inputTokens": 4172,
+            "outputTokens": 804,
+            "cacheReadTokens": 213507,
+            "cacheCreationTokens": 148177
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "889c8591-4acb-4cb2-ade9-4c850f653b34",
+          "title": "Turbo Daemon Restart with npx",
+          "timestamp": "2026-01-13T19:26:33.155Z",
+          "durationMs": 44526,
+          "totalDurationMs": 58179,
+          "gitBranch": "henryollarves/prod-7772-new-complete-your-profile-callout-and-progress-in-sidebar",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 6,
+            "outputTokens": 5,
+            "cacheReadTokens": 19561,
+            "cacheCreationTokens": 19634
+          },
+          "totalTokens": {
+            "inputTokens": 24,
+            "outputTokens": 101,
+            "cacheReadTokens": 19561,
+            "cacheCreationTokens": 80353
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "b2123d25-95d6-46ff-ae1d-71818b4f89b3",
+          "title": "Extract circular progress component for reuse",
+          "timestamp": "2026-01-13T19:00:55.340Z",
+          "durationMs": 2650342,
+          "totalDurationMs": 2662255,
+          "gitBranch": "henryollarves/prod-7772-new-complete-your-profile-callout-and-progress-in-sidebar",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 334,
+            "outputTokens": 5934,
+            "cacheReadTokens": 1071631,
+            "cacheCreationTokens": 213108
+          },
+          "totalTokens": {
+            "inputTokens": 352,
+            "outputTokens": 6313,
+            "cacheReadTokens": 1071631,
+            "cacheCreationTokens": 273515
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "e113cb63-c448-4fbe-beef-6c65541f9c0a",
+          "title": "Onboarding one-liner tag sorting by embeddings",
+          "timestamp": "2026-01-13T15:44:57.596Z",
+          "durationMs": 1434480,
+          "totalDurationMs": 1867921,
+          "gitBranch": "henryollarves/prod-00-update-kajabi-apply-url",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 79,
+            "outputTokens": 7714,
+            "cacheReadTokens": 3396254,
+            "cacheCreationTokens": 215714
+          },
+          "totalTokens": {
+            "inputTokens": 135875,
+            "outputTokens": 22575,
+            "cacheReadTokens": 8489626,
+            "cacheCreationTokens": 1012447
+          },
+          "subagentCount": 8
+        },
+        {
+          "id": "1d92f607-67be-4f08-b606-5f2dc8224778",
+          "title": null,
+          "timestamp": "2026-01-13T15:40:47.710Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "215e6ecc-3d1f-4d7e-9dd3-9b7d79ae9eb5",
+          "title": null,
+          "timestamp": "2026-01-13T13:47:29.569Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 3
+        },
+        {
+          "id": "362c81a9-3842-4388-8f63-08937979d502",
+          "title": "Fix contractor onboarding minimum hourly rate",
+          "timestamp": "2026-01-12T18:31:58.860Z",
+          "durationMs": 140231,
+          "totalDurationMs": 154539,
+          "gitBranch": "henryollarves/prod-7771-update-items-in-onboarding-checklist",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 13,
+            "outputTokens": 1144,
+            "cacheReadTokens": 187286,
+            "cacheCreationTokens": 31038
+          },
+          "totalTokens": {
+            "inputTokens": 46,
+            "outputTokens": 1420,
+            "cacheReadTokens": 187286,
+            "cacheCreationTokens": 127259
+          },
+          "subagentCount": 6
+        },
+        {
+          "id": "149d2327-2974-4e40-ba04-dc49c91477d6",
+          "title": "Post media without profile toggle modal",
+          "timestamp": "2026-01-12T18:05:00.986Z",
+          "durationMs": 8178859,
+          "totalDurationMs": 8336838,
+          "gitBranch": "henryollarves/prod-7771-update-items-in-onboarding-checklist",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 223,
+            "outputTokens": 21562,
+            "cacheReadTokens": 12830959,
+            "cacheCreationTokens": 859563
+          },
+          "totalTokens": {
+            "inputTokens": 55310,
+            "outputTokens": 26166,
+            "cacheReadTokens": 15507341,
+            "cacheCreationTokens": 1460431
+          },
+          "subagentCount": 8
+        },
+        {
+          "id": "94c26fa0-392a-4faf-b3b1-086a9ded885a",
+          "title": "Mobile video rendering and UI padding fixes",
+          "timestamp": "2026-01-06T14:57:03.259Z",
+          "durationMs": 3947900,
+          "totalDurationMs": 3957325,
+          "gitBranch": "main",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 61,
+            "outputTokens": 4618,
+            "cacheReadTokens": 853600,
+            "cacheCreationTokens": 236625
+          },
+          "totalTokens": {
+            "inputTokens": 2463,
+            "outputTokens": 4622,
+            "cacheReadTokens": 853600,
+            "cacheCreationTokens": 236625
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "f3ed0f65-3f8b-4050-8c75-ea3944511b62",
+          "title": null,
+          "timestamp": "2026-01-06T12:46:02.839Z",
+          "durationMs": 0,
+          "totalDurationMs": 0,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "6cc8f1ba-d77e-43b2-93ec-7499426d7060",
+          "title": null,
+          "timestamp": "2026-01-05T20:05:23.761Z",
+          "durationMs": 0,
+          "totalDurationMs": 9040,
+          "gitBranch": null,
+          "model": null,
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 2114,
+            "outputTokens": 180,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 2
+        },
+        {
+          "id": "5191d27f-fdef-4f07-90a0-3422dfca8c3e",
+          "title": "Panda CSS styled-components migration cleanup",
+          "timestamp": "2026-01-05T18:36:53.060Z",
+          "durationMs": 5329230,
+          "totalDurationMs": 7672017,
+          "gitBranch": "main",
+          "model": "claude-sonnet-4-5-20250929",
+          "tokens": {
+            "inputTokens": 8533,
+            "outputTokens": 26719,
+            "cacheReadTokens": 7281339,
+            "cacheCreationTokens": 1381800
+          },
+          "totalTokens": {
+            "inputTokens": 15448,
+            "outputTokens": 56540,
+            "cacheReadTokens": 11119071,
+            "cacheCreationTokens": 2120183
+          },
+          "subagentCount": 14
+        },
+        {
+          "id": "0a49dd44-9a3f-4921-a819-09ffd969f42c",
+          "title": "Styled-Components to Panda CSS Migration",
+          "timestamp": "2026-01-05T18:16:34.729Z",
+          "durationMs": 1203629,
+          "totalDurationMs": 1915375,
+          "gitBranch": "main",
+          "model": "claude-sonnet-4-5-20250929",
+          "tokens": {
+            "inputTokens": 54920,
+            "outputTokens": 19486,
+            "cacheReadTokens": 9088763,
+            "cacheCreationTokens": 839669
+          },
+          "totalTokens": {
+            "inputTokens": 63472,
+            "outputTokens": 45897,
+            "cacheReadTokens": 10696586,
+            "cacheCreationTokens": 1591048
+          },
+          "subagentCount": 15
+        },
+        {
+          "id": "ff537d65-a048-4b79-947d-2ace2b0b2aa8",
+          "title": "SQL INSERT hover_discount codes",
+          "timestamp": "2025-12-31T17:29:08.826Z",
+          "durationMs": 3471615,
+          "totalDurationMs": 3471615,
+          "gitBranch": "henryollarves/prod-7886-make-sure-viewed-and-tapped-tracking-is-covered-across",
+          "model": "<synthetic>",
+          "tokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "totalTokens": {
+            "inputTokens": 0,
+            "outputTokens": 0,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 0
+          },
+          "subagentCount": 0
+        },
+        {
+          "id": "edc30a6e-32f1-41c5-8f0e-355ee2a657c0",
+          "title": "AppLoader Navigation Flow Fix",
+          "timestamp": "2025-12-31T14:14:31.256Z",
+          "durationMs": 3294749,
+          "totalDurationMs": 3294749,
+          "gitBranch": "henryollarves/prod-7770-building-your-feed-loading-state",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 6072,
+            "outputTokens": 11654,
+            "cacheReadTokens": 7725424,
+            "cacheCreationTokens": 1153924
+          },
+          "totalTokens": {
+            "inputTokens": 6072,
+            "outputTokens": 11654,
+            "cacheReadTokens": 7725424,
+            "cacheCreationTokens": 1153924
+          },
+          "subagentCount": 0
+        }
+      ]
+    },
+    {
+      "projectName": "stoic-faraday",
+      "projectPath": "/Users/hollarves/.claude-worktrees/gaia/stoic-faraday",
+      "totalSessions": 5,
+      "totalDurationMs": 21082814,
+      "totalTokens": {
+        "inputTokens": 38563,
+        "outputTokens": 4491,
+        "cacheReadTokens": 52313599,
+        "cacheCreationTokens": 3472318
+      },
+      "sessions": [
+        {
+          "id": "7d7ceb60-be7c-4eac-aa49-a4c60b51244d",
+          "title": null,
+          "timestamp": "2026-01-27T10:10:39.003Z",
+          "durationMs": 20610106,
+          "totalDurationMs": 21082814,
+          "gitBranch": "stoic-faraday",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 1316,
+            "outputTokens": 3216,
+            "cacheReadTokens": 39253561,
+            "cacheCreationTokens": 2364355
+          },
+          "totalTokens": {
+            "inputTokens": 38563,
+            "outputTokens": 4491,
+            "cacheReadTokens": 52313599,
+            "cacheCreationTokens": 3472318
+          },
+          "subagentCount": 4
+        }
+      ]
+    },
+    {
+      "projectName": "priceless-elion",
+      "projectPath": "/Users/hollarves/.claude-worktrees/gaia/priceless-elion",
+      "totalSessions": 1,
+      "totalDurationMs": 8852,
+      "totalTokens": {
+        "inputTokens": 2,
+        "outputTokens": 1,
+        "cacheReadTokens": 0,
+        "cacheCreationTokens": 35552
+      },
+      "sessions": [
+        {
+          "id": "b8516226-2b57-4e5f-9abd-00ac34db30ab",
+          "title": null,
+          "timestamp": "2026-01-27T10:02:30.339Z",
+          "durationMs": 8852,
+          "totalDurationMs": 8852,
+          "gitBranch": "priceless-elion",
+          "model": "claude-opus-4-5-20251101",
+          "tokens": {
+            "inputTokens": 2,
+            "outputTokens": 1,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 35552
+          },
+          "totalTokens": {
+            "inputTokens": 2,
+            "outputTokens": 1,
+            "cacheReadTokens": 0,
+            "cacheCreationTokens": 35552
+          },
+          "subagentCount": 0
+        }
+      ]
+    }
+  ],
+  "activity": {
+    "2026-02-02": {
+      "sessions": 18,
+      "durationMs": 21315282
+    },
+    "2026-02-01": {
+      "sessions": 7,
+      "durationMs": 2218606
+    },
+    "2026-01-31": {
+      "sessions": 5,
+      "durationMs": 87368479
+    },
+    "2026-01-30": {
+      "sessions": 5,
+      "durationMs": 11004395
+    },
+    "2026-01-29": {
+      "sessions": 1,
+      "durationMs": 0
+    },
+    "2026-01-28": {
+      "sessions": 13,
+      "durationMs": 189486082
+    },
+    "2026-01-27": {
+      "sessions": 24,
+      "durationMs": 26493609
+    },
+    "2026-01-26": {
+      "sessions": 18,
+      "durationMs": 63923759
+    },
+    "2026-01-25": {
+      "sessions": 12,
+      "durationMs": 16010219
+    },
+    "2026-01-24": {
+      "sessions": 1,
+      "durationMs": 0
+    },
+    "2026-01-23": {
+      "sessions": 37,
+      "durationMs": 343338608
+    },
+    "2026-01-22": {
+      "sessions": 4,
+      "durationMs": 5658308
+    },
+    "2026-01-21": {
+      "sessions": 13,
+      "durationMs": 93197984
+    },
+    "2026-01-20": {
+      "sessions": 3,
+      "durationMs": 2106802
+    },
+    "2026-01-17": {
+      "sessions": 30,
+      "durationMs": 3987155
+    },
+    "2026-01-16": {
+      "sessions": 23,
+      "durationMs": 15257688
+    },
+    "2026-01-15": {
+      "sessions": 36,
+      "durationMs": 14950372
+    },
+    "2026-01-13": {
+      "sessions": 29,
+      "durationMs": 4638726
+    },
+    "2026-01-12": {
+      "sessions": 16,
+      "durationMs": 8491377
+    },
+    "2026-01-06": {
+      "sessions": 4,
+      "durationMs": 3957325
+    },
+    "2026-01-05": {
+      "sessions": 34,
+      "durationMs": 9596432
+    },
+    "2025-12-31": {
+      "sessions": 2,
+      "durationMs": 6766364
+    }
+  }
+}
