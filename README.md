@@ -6,7 +6,7 @@
 CLAUDE CODE STATS
 ==================================================
 
-  Sessions   335             Tokens     1085.5M
+  Sessions   335             Tokens     1085.6M
   Duration   258h 16m        Projects   3
 
 ```
@@ -29,7 +29,7 @@ RECENT SESSIONS
   2026-02-02  gaia        untitled                       0        0m
   2026-02-02  gaia        untitled                       0        0m
   2026-02-02  gaia        Oxc formatting not work…    3.2M       13m
-  2026-02-02  gaia        Implement DISCOVER_SEAR…  118.4M    5h 15m
+  2026-02-02  gaia        Implement DISCOVER_SEAR…  118.5M    5h 15m
 
 ```
 

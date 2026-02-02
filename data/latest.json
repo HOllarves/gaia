@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-02-02T20:37:49.160Z",
+  "generatedAt": "2026-02-02T20:37:55.907Z",
   "username": "hollarves",
   "summary": {
     "totalSessions": 335,
-    "totalDurationMs": 929767572,
-    "totalTokens": 1085485984,
+    "totalDurationMs": 929775439,
+    "totalTokens": 1085612950,
     "projectCount": 3
   },
   "projects": [
@@ -12,12 +12,12 @@
       "projectName": "gaia",
       "projectPath": "/Users/hollarves/Developer/contra/gaia",
       "totalSessions": 329,
-      "totalDurationMs": 908675906,
+      "totalDurationMs": 908683773,
       "totalTokens": {
-        "inputTokens": 1757006,
-        "outputTokens": 380054,
-        "cacheReadTokens": 961861852,
-        "cacheCreationTokens": 65622546
+        "inputTokens": 1757022,
+        "outputTokens": 380064,
+        "cacheReadTokens": 961985798,
+        "cacheCreationTokens": 65625540
       },
       "sessions": [
         {
@@ -112,21 +112,21 @@
           "id": "d10669f9-f97f-4859-8abd-e4400ab5624f",
           "title": "Implement DISCOVER_SEARCH_PLACEMENT ad type with targeting",
           "timestamp": "2026-02-02T15:28:54.681Z",
-          "durationMs": 18531747,
-          "totalDurationMs": 18918901,
+          "durationMs": 18539614,
+          "totalDurationMs": 18926768,
           "gitBranch": "henryollarves/prod-8682-add-new-ad-placements-to-ads-admin-tool",
           "model": "claude-opus-4-5-20251101",
           "tokens": {
-            "inputTokens": 6514,
-            "outputTokens": 3824,
-            "cacheReadTokens": 110897623,
-            "cacheCreationTokens": 3316283
+            "inputTokens": 6530,
+            "outputTokens": 3834,
+            "cacheReadTokens": 111021569,
+            "cacheCreationTokens": 3319277
           },
           "totalTokens": {
-            "inputTokens": 6830,
-            "outputTokens": 3923,
-            "cacheReadTokens": 113481536,
-            "cacheCreationTokens": 4873983
+            "inputTokens": 6846,
+            "outputTokens": 3933,
+            "cacheReadTokens": 113605482,
+            "cacheCreationTokens": 4876977
           },
           "subagentCount": 6
         },
@@ -2210,7 +2210,7 @@
   "activity": {
     "2026-02-02": {
       "sessions": 18,
-      "durationMs": 21315282
+      "durationMs": 21323149
     },
     "2026-02-01": {
       "sessions": 7,
